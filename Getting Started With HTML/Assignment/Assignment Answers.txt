@@ -1,0 +1,29 @@
+Qus1- Write a Simple Program in HTML that displays the heading "HTML defines the content and structure of 
+your websites" on the web browser?
+Ans-Check code 
+
+Qus2-Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML 
+Documents?
+Ans-Comment tag is used to insert comments in source code and comments does not show in browser
+section its helpful for understand  if you work after a long time in any code . this espacially useful
+if you have a lots of code.
+Example- check code
+
+Qus3-Write an HTML Program that includes a Heading , a paragraph of text, a horizontal line, and a line 
+break. Arrange these elements to create a simple web page layout?
+Ans- Check code
+
+Qus4-Write a short note on Tag and element with an example?
+Ans-Tags are building block in HTML page and they tell to the browser how it should display content 
+to the tag starts with < bracket and close with > bracket.Most of the tag which avilable in pair 
+and they have opening and closing part.
+
+HTML elements includes start tag, content and end tag . HTML elements are the components of the web pages.
+Example- Check Code
+
+
+Qus5-What is the DOCTYPE Declaration in HTML?
+Ans- Doctype html is a Declaration that tells what type of version in HTML.its appears first line in
+HTML file.
+
+
