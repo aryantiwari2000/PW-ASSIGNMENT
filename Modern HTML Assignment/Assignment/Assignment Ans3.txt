@@ -1,0 +1,17 @@
+Qus-Define accessiblity in the context of web devlopment. Discuss why it's essential to create accessible websites
+and how its benifits different user groups?
+Ans- 
+Accessiblity in HTML refers to the practice of designing and coding web content in the way that ensure it can be easily accessed. and intracted with by people of diverse abilities. 
+
+why to use accessiblity
+
+There are many reasons why you should use Accessiblity-
+
+1-To Identify accessibility issue-It can help you to identify accessibility issue in your website or web application .
+
+2-TO meet accessibility standerds-It can help you to ensure that our website or web application meets accessibility standards.
+
+3-To Improve usability- Accessiblity automated testing software tools can help us to improve the usability of your website.
+
+
+

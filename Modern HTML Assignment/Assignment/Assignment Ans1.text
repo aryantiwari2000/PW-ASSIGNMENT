@@ -1,0 +1,10 @@
+Qus- List Out the Features of HTML?
+Ans-
+1- Improved Multimedia Support- Html allows for integranting mutimedia elements such as <audio> and <video> directly
+into web pages without the need of plugins like flash.
+2- Canvas Element-HTML 5 introduced the <canvas> Element allowing dynamic, intractive grafics to be created and manipulated within a wep page.
+3-Geolocation API-API for obtaining the user's location, enabling web application to offer location based services.
+4-Local Storage- Which allows for the storage of data on the user's device , improving performance and reducing the need for round-trips to the server.
+5-New Structural elements-HTML5 introducedthe new semantic elements such as <header>,<footer>,<nav> and article,etc.
+6-Form Improvements-HTML5 introduced several improvements to form inclusing new input types like date, time, and color, as well as new attributes such as required and autofocus.
+7-Accessiblity improvements-HTML5 provides better support for accessiblity , including the abilty to provide alternative text for images and imroved support for screen readers.

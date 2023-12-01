@@ -1,0 +1,11 @@
+Qus- List any 3 ways which help us in improving the accessibility of webpage
+
+Ans- 
+There are many reasons why you should use Accessiblity-
+
+1-Use Semantic HTML Extension- Using  sementic HTML elements helps improve accessibility by providing meaningful structure to your content. like <head>, <nav>, <main>, <article>,and <footer>.
+
+2-Provide alt text for image- Adding discriptive alt text to images using the alt attributes ensures that users who can not see the images can understand their content and purpose.
+
+3-Use color with care-Color plays an important role in web design, but it should not be the only means of
+conveying information. Ensure that color is not the sole indicator of meaning.
