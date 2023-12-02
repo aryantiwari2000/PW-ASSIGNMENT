@@ -1,0 +1,6 @@
+Qus- What is SEO and explian the Importance of SEO?
+Ans- SEO stands for search engine optimization it helps you optimize your website so they have better ranking on search engines like Google,Bing and Yahoo.
+
+The ultimate goal of SEO is to rank higher in search engine results pages for relevent keyword and phrases, which can increase visibility, traffic and ultimate revenue for the website.
+
+It is imp for business that want to succeed in digital age. In HTML a common way to help search engine is to include document titles and some important meta tags.Meta tags are imp for SEO they provide info. to search engines about the content on your site and can help improve your website's visibility and ranking in searc engine result pages.
