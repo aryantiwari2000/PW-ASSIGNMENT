@@ -1,0 +1,253 @@
+ /* Universal TAg */
+
+ *{
+    margin: 0px;
+    padding: 0px;
+    /* list-style: none; */
+    display: inline-block;
+}
+
+.IRCTCscreen{
+width: 1469px;
+height: 1143px;
+/* padding: 0px 4px 43px 5px; */
+background: white;
+display: flex;
+/* margin: 0 auto; */
+font-family: sans-serif;
+
+}
+
+/* logo container */
+.logo{
+
+    width: 250px;
+    height:150px ;
+    display: flex;
+    position: absolute;
+    gap: 5px;
+    justify-content: center;
+    align-items: flex-end   ;
+}
+
+/* menubar container */
+.menu-section{
+    width: 321.81px;
+    height: 68.87px;
+    margin-top: 68.87px;
+    margin-left: 398.46px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.menu1{
+width: 246.69px;
+height:20px;
+display: flex;
+justify-content: center;
+font-size: 10px;
+        
+}
+.menu1 ul li{
+ padding: 5px;        
+}
+.menu2{
+ width:321.81px;
+ height:38.28px;
+ display: flex;
+ /* background: ; */
+ justify-content: center;
+ align-items: center;
+ margin-left: -30px;
+ 
+ 
+}
+.menu2 ul li{
+ padding: 6px;   
+ font-size: 10px;   
+ border: solid 1.5px gray;
+ border-radius: 5.07px;
+}
+
+main{
+display: flex;
+}
+
+/* Header Tittle */
+.HeaderTitle{
+
+ width:438px ;
+ height:118.08px ;
+ margin-top:223.06px;
+ left:40px ;
+ /* float: left; */
+ position: absolute;
+ background: ;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ gap: 5px;
+
+}
+.IndianRailway{
+    background: ;
+    width: 370px;
+    height: 40px;
+    font-weight: 700px;
+    font-size:25px;
+    display: flex;
+    
+
+
+ }
+.SafetySecurityPunctuality{
+    width: 438px;
+    height: 40px;
+    font-size: 25px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.SafetySecurityPunctuality ul li{
+     
+    padding:5px;
+    
+}
+.SubNutton{
+ width:603.22px ;
+ height:44.61px ;
+ /* background:white ; */
+ margin-top: 422px;
+ left: 40px;
+position: absolute; 
+display:flex ;    
+/* justify-content: center; */
+align-items: center;
+gap: 15px;
+  
+}
+.selected{
+background: #213D77;
+color: white;
+}
+.SubNutton button{
+border-radius: 5.07px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: white;   
+ width: auto;
+ padding: 1px;
+ 
+
+}
+.JourneyDetailscontainer{
+width: 618.47px;
+height: 116.6px;
+top: 33rem;
+left: 40px;
+border-radius: 5px;
+border: 1.01px;
+position: absolute;
+border: solid  #3333331A;
+display: flex;
+justify-content: center;
+align-items: center;
+justify-content: space-around;
+
+
+}
+.location{
+width:200px ;
+height:60px ;
+border: solid 2px white;
+display: flex;
+align-items: center;
+}
+
+.DateDetailscontainer{
+width: 618.47px;
+height: 116.6px;
+top: 42rem;
+left: 40px;
+border: 1.01px;
+border-radius: 5px;
+position: absolute;
+border: solid 2px #3333331A;
+display: flex;
+justify-content: center;
+align-items: center;
+justify-content: space-around;
+
+
+}
+.Date{
+width:200px ;
+height:60px ;
+border: solid 2px white;
+display: flex;
+align-items: center;
+}
+.SearchTrain{
+width: 618.47px;
+height: 50px;
+top: 51rem;
+left: 40px;
+border-radius: 10.14px;
+border: 1.01px;
+position: absolute;
+border: solid  #3333331A;
+background-color:  #01BB0A;
+display: flex;
+align-items: center;
+justify-content: center;
+color: white;
+font-weight: bold;
+}
+.IRCTCimage{
+width: 696px;
+height: 1100px; 
+}
+.Arrow{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    margin-left: 35px;
+}
+.containerone ul li {
+
+    display: flex;
+    gap: 5px;
+    font-size: medium;
+    line-height: 25px;
+
+}
+.containertwo ul li {
+
+    display: flex;
+    gap: 5px;
+    line-height: 25px;
+
+
+}
+
+.Date ul li {
+    display: flex;
+    font-size: small;
+    line-height: 25px;
+
+}
+.containerone{
+
+    gap: 6px;
+}
+.containertwo{
+
+    gap: 6px;
+}
+.Date{
+    gap: 6px;
+
+} 
